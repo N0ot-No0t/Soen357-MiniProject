@@ -223,10 +223,18 @@ We also decided to include a more human-centered design artefact in order to bet
 We also decided to include a more human-centered design artefact in order to better visualize a user’s experience with Journey by depicting a typical day in someone’s life while using the super app.
 
 ## Color Palette
-We also decided to include a more human-centered design artefact in order to better visualize a user’s experience with Journey by depicting a typical day in someone’s life while using the super app.
+The color palette is very simple in terms of colors. Even though different shades of gray are present in the color palette, the prevailing colors in the different shades of green. We think the green color gives a greater sensation of well-being to the user which is very beneficial. 
+
+<p align="center">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/ColorPalette.png?raw=true">
+</p>
 
 ## Typography
-We also decided to include a more human-centered design artefact in order to better visualize a user’s experience with Journey by depicting a typical day in someone’s life while using the super app.
+We opted for the Inter font as it represents a more friendly appearance to the user. It is very readable and simple in design. Overall, it gives a nice look to the super app.
+
+<p align="center">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/Typography.png?raw=true">
+</p>
 
 ## Naming and Logo
 We also decided to include a more human-centered design artefact in order to better visualize a user’s experience with Journey by depicting a typical day in someone’s life while using the super app.
