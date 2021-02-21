@@ -99,6 +99,7 @@ List all the questions one after the other here.
 </p>
 
 Q1: First off, we can see that the market for a healthy super app is there since more than half of the respondents are interested or very interested in such an application. This is great news because we would be off to a rough start if this wasn’t the case.
+<br/>
 
 <p align="center">Questions 2, 3, 4, 5:</p>
 
@@ -110,6 +111,7 @@ Q1: First off, we can see that the market for a healthy super app is there since
 </p>
 
 Q2, 3, 4, 5: As it can be seen, the large majority answered that they give a lot of priority to their physical and mental health and that healthy cooking and exercising are very important in people’s lives. This highlights the importance of such a super app as Journey because it will allow its users to continue prioritizing what is important to them.
+<br/>
 
 <p align="center">Question 6:</p>
 
@@ -118,6 +120,7 @@ Q2, 3, 4, 5: As it can be seen, the large majority answered that they give a lot
 </p>
 
 Q6: We noticed that quite an important percentage of people found that having access to a virtual doctor/psychiatrist is important to them which made us seriously consider it as a possible main feature of the super app. However, we decided that the access to a virtual doctor/psychiatrist could perhaps shift the focus of the super app from guiding people towards a healthy lifestyle to providing people with remote medical access which is not the goal of Journey. We believed that that feature would better serve people if it was a standalone application where the help provided could be much more extensive.
+<br/>
 
 <p align="center">Questions 7, 8:</p>
 
@@ -127,6 +130,7 @@ Q6: We noticed that quite an important percentage of people found that having ac
 </p>
 
 Q7, 8: The above bar graph highlights the question on which participants were the most divided. Half the participants said that they accorded little to no importance towards regulating digital screen time while the other half said the opposite which was that regulating digital screen time is important or very important to them. With that in mind, the participants then answered how many hours on average of screen time they incorporate in their daily lives and the numbers are sky high. Slightly more than 40% of people answered that they were in front of a screen for 11 hours or more per hour while more than 30% of people answered in between 7-10. It can be hypothesized that these numbers are very high due to the current pandemic which has forced many people to work remotely and that means being in front of a screen for 8 hours or so at the very least. In the end, screen time is definitely a very pressing concern, now more than ever.
+<br/>
 
 <p align="center">Questions 9, 10, 11, 12:</p>
 
@@ -138,17 +142,9 @@ Q7, 8: The above bar graph highlights the question on which participants were th
 </p>
 
 Q9, 10, 11, 12: In the case of Maslow’s pyramid of needs, the participants’ responses were relatively spread out into the four top categories of the pyramid. Then, people generally answered that being sociable, going outside, travelling, and maintaining a constant and healthy sleep schedule are very important things for them when it comes to a healthy lifestyle and this seems to converge with the findings from the question about Maslow’s pyramid.
+<br/><br/>
 
-![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q13.png?raw=true)
-![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q14.png?raw=true)
-![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q15.png?raw=true)
-![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q16.png?raw=true)
-![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q17.png?raw=true)
-![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q18.png?raw=true)
-![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q19.png?raw=true)
-![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q20.png?raw=true)
-
-<p align="center">Questions 13, 14, 15, 16, 17, 18, 19, 20:</p>
+<p align="center">Questions 13, 14, 15, 16, 17, 18, 19:</p>
 
 <p align="center">
   <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q13.png?raw=true">
@@ -158,7 +154,6 @@ Q9, 10, 11, 12: In the case of Maslow’s pyramid of needs, the participants’ 
   <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q17.png?raw=true">
   <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q18.png?raw=true">
   <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q19.png?raw=true">
-  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q20.png?raw=true">
 </p>
 
 Q13, 14, 15, 16, 17, 18, 19, 20: We decided to ask some more specific questions about the super app itself and saw that people were somewhat likely or likely to listen and incorporate healthy lifestyle advice from Journey which was expected. People may often be reserved when it comes to taking advice from unfamiliar sources and we believe that the right advice in combination with a good UI/UX experience is what will improve this outlook.
@@ -241,43 +236,3 @@ Explain the various features that were retained and why. Explain how it ties to 
 
 # Conclusion
 Explain the various features that were retained and why. Explain how it ties to the answers from the market study and the user research answers.
-
-# Remove everything below before submission.
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/N0ot-No0t/Soen357-MiniProject/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/N0ot-No0t/Soen357-MiniProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
