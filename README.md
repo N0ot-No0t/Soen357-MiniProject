@@ -242,7 +242,7 @@ Explain the various features that were retained and why. Explain how it ties to 
 # Conclusion
 Explain the various features that were retained and why. Explain how it ties to the answers from the market study and the user research answers.
 
-# Remove all below before submission.
+# Remove everything below before submission.
 
 ## Welcome to GitHub Pages
 
