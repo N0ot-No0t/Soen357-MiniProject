@@ -195,17 +195,7 @@ In order to get a better idea of what is going on in the mind of our users, we d
 </p>
 
 # Design Process
-Explain the various features that were retained and why. Explain how it ties to the answers from the market study and the user research answers.
-
-We decided to retain the following four:
-- Messaging: we thought it made sense to also add a way for people to communicate inside our super app which is why we decided to implement a sort of messaging board that is very similar to Reddit. The reason for this feature is that we believed that users would highly benefit from being able to talk to each other and share their advice and progress about their journey towards a healthier lifestyle.
-- Walet
-- Maps
-- Rewards system
-
-We then added the workout module and cooking one too. Here is why... Also we added the three things in the profile, here is why...
-
-After selecting the primary features of our healthy super app, we decided to create a user flow diagram in order to make sure that all of the parts of our app were well defined and well connected. 
+After having better understood the users and the current market, it was time to take the next step and to start thinking about the actual design of the app. Before doing a mockup, we needed to define the logical layout of our app with a user flow diagram. Knowing the possible paths that can be taken in the app is a crucial first step. After that, it would be time to do some rough sketches in order to get an idea of what the different panels would look like. Afterwards, wireframes would solidify our design choices which would then serve as the foundation for the mockup (i.e. the final design). 
 
 ## User Flow Diagram
 We also decided to include a more human-centered design artefact in order to better visualize a user’s experience with Journey by depicting a typical day in someone’s life while using the super app.
@@ -237,7 +227,7 @@ The sketches are based on user analysis about what needs could user have for a h
 </p>
 
 ## Wireframes
-We also decided to include a more human-centered design artefact in order to better visualize a user’s experience with Journey by depicting a typical day in someone’s life while using the super app.
+After having done some rough sketches, it was time to solidify our design choices (and to perhaps rethink some of them if they weren’t solid). One thing that changed from the sketches is that we decided to add credit cards to the wallet.
 
 <p align="center">
   <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/WholeFrame.png?raw=true">
@@ -273,14 +263,22 @@ We opted for the Inter font as it represents a more friendly appearance to the u
 </p>
 
 ## Naming and Logo
-We also decided to include a more human-centered design artefact in order to better visualize a user’s experience with Journey by depicting a typical day in someone’s life while using the super app.
+We thought that the name Journey was really what this app was all about: a journey towards living a healthier lifestyle. Because of this, we honestly don’t think that we could’ve come up with a better name than that. Everyone’s journey is different, but we all have the same end goal: to be healthier than we were yesterday. As for the logo itself, the path in the middle signifies the road that one will take on their journey. As for the tree on the bottom left or the mountains on the top right, we wanted this to represent the idea that it doesn’t matter what environment you’re in, living healthy is possible.
 
 <p align="center">
   <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/logo/logo.png?raw=true">
 </p>
 
 # Final Design
-Explain the various features that were retained and why. Explain how it ties to the answers from the market study and the user research answers.
+After having gone through the process of doing user and market research as well as creating design documents to better clarify the vision of our app, we were finally ready to finalize our app design. Using the knowledge and feedback acquired in the past phases was critical for coming up with a super app design that corresponds to the users’ needs. From the four super apps that we decided to look at (Wechat, Gojek, Grab, Line), we decided to retain four main features which we will explain shortly. Finally, without further ado, here are the main parts of our super app called Journey: <br/>
+
+- Messaging: this is one of the features that was taken from the super apps in the market section. We thought it made sense to also add a way for people to communicate inside our super app which is why we decided to implement a sort of messaging board that is very similar to Reddit. The reason for this feature is that we believed that users would highly benefit from being able to talk to each other and share their advice and progress about their journey towards a healthier lifestyle. From the survey, we understood that the participants cared about being social with one another and this is why a messaging board was something that the app needed.
+- Maps: this is another one of the features that was taken from the super apps in the market section. From the survey, users said that going outside and travelling was very important to them and therefore, we had to include this feature. Because this Journey as a focus on living a healthy lifestyle, going outside and visiting new green areas seemed paramount to us and therefore, the maps feature will not only allow users to find their way around, but will also suggest nearby green spaces that they can visit and will tell them their characteristics (i.e. good for children, bird watching, has a basketball court, etc.).
+- Cooking: the survey participants strongly believed that healthy cooking is important to them and therefore, we decided to include a module which suggested its users many healthy recipes that they can learn to cook. After all, healthy eating is an integral part of a healthy lifestyle. While browsing recipes, users can decide to buy any missing ingredients which will get shipped right to them (so there is no excuse to not cook that healthy dish now).
+Walet: this is another one of the features that was taken from the super apps in the market section. We thought to keep this feature because of the fact that we wanted to allow users to be able to buy ingredients for the suggested cooking recipes.
+- Rewards system: this is another one of the features that was taken from the super apps in the market section. From the survey, we saw that a certain amount of people had “rewarding” as a driving force behind their user goals. Therefore, we thought of implementing a points rewards system where the user accumulates points by working out, posting on the message board, visiting places and by buying ingredients and cooking. These points can then be redeemed for real money.
+- Exercising: last but not least, the survey suggested that physical health was very important to people. Therefore, we decided to add a module which suggests workouts to users so they can stay in shape.
+- Healthy habits helpers: this name is simply an umbrella for three features that can be found on the profiles tab. The first is the app timer which allows users to set a specific timer on an app after which they are forced to quit the app in order to prevent extra unwanted screen time. This is a useful feature that many smartphones operating systems have implemented nowadays and it’s why it made the cut into the app. The second feature is being able to set goals/milestones that one wants to achieve. From our interviews, we saw that one of the features that users wanted to see was the ability to add goals and to be able to track them which is why this feature also made the cut into the app. Finally, the third feature is statistics or metrics tracking. Again, this is one of the features that people during the interviews talked about and wanted to see in a potential healthy super app.
 
 <p align="center">
   <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/SignUp.png?raw=true">
@@ -302,4 +300,4 @@ Explain the various features that were retained and why. Explain how it ties to 
 </p>
 
 # Conclusion
-Explain the various features that were retained and why. Explain how it ties to the answers from the market study and the user research answers.
+We had never done a similar project in the past and so this was a quite challenging and rewarding learning experience. Having to go through all the phases of the design after having researched our users and the current market really felt like a fully-fledged project. We realized that talking to people, asking them what they wanted via surveys and interviews was the key to a successful human-design approach to a healthy super app. Understanding people’s concerns was really the most important thing here and once that was done, we really had a blast designing the interfaces knowing that people could have theoretically really made use of this.
