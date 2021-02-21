@@ -15,11 +15,13 @@ Research is an integral part of any project and so that is where we started our 
 ## Current Market
 First things first, before getting to know our user base and starting our design, it was important that we get a clear picture of what super apps are out there so that we could learn from them.
 
-Add map image from this article here: https://www.maketecheasier.com/what-are-super-apps/
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/super_apps_pictures/super_apps_worldwide.png?raw=true)
+[Source](https://www.maketecheasier.com/what-are-super-apps/)
 
 There are a few major players in the super app scene which is mostly located in the Asian world. We have chosen to look at WeChat, Gojek, Grab, and Line in order to analyze the most important features that they have. This would in turn allow us to select the most popular ones, but most importantly, the ones that fit the most into an ecosystem that promotes a healthy lifestyle. We would like to highlight this fact since we haven’t been able to find any super app that focuses on healthy living and therefore, some of the features of the previously mentioned applications might not be suitable for what we are trying to achieve.
 
 ### WeChat main features:
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/super_apps_pictures/wechat.png?raw=true)
 - Messaging and calling
 - Maps
 - Internal Search Engine
@@ -30,6 +32,7 @@ There are a few major players in the super app scene which is mostly located in 
 - Rewards system
 
 ### Gojek main features:
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/super_apps_pictures/gojek.png?raw=true)
 - Food ordering
 - Ride sharing
 - Grocery shopping
@@ -39,6 +42,7 @@ There are a few major players in the super app scene which is mostly located in 
 - Rewards system
 
 ### Grab main features:
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/super_apps_pictures/wechat.png?raw=true)
 - Food ordering
 - Ride sharing
 - Payment system
@@ -46,6 +50,7 @@ There are a few major players in the super app scene which is mostly located in 
 - Rewards system
 
 ### Line main features:
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/super_apps_pictures/line.png?raw=true)
 - Messaging
 - Games
 - Food ordering
@@ -58,17 +63,36 @@ There are a few major players in the super app scene which is mostly located in 
 After having done some market research in order to study existing super apps and to gain a deeper understanding on the subject, it was now the time to see what some of the views of the population were towards super apps and towards different aspects that make-up a healthy lifestyle. In order to do this, we created a survey using Google Forms and shared it online. We managed to survey 32 participants and here are the results of the questions that we asked:
 List all the questions one after the other here.
 
-
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q1.png?raw=true)
 Q1: First off, we can see that the market for a healthy super app is there since more than half of the respondents are interested or very interested in such an application. This is great news because we would be off to a rough start if this wasn’t the case.
 
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q2.png?raw=true)
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q3.png?raw=true)
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q4.png?raw=true)
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q5.png?raw=true)
 Q2, 3, 4, 5: As it can be seen, the large majority answered that they give a lot of priority to their physical and mental health and that healthy cooking and exercising are very important in people’s lives. This highlights the importance of such a super app as Journey because it will allow its users to continue prioritizing what is important to them.
 
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q6.png?raw=true)
 Q6: We noticed that quite an important percentage of people found that having access to a virtual doctor/psychiatrist is important to them which made us seriously consider it as a possible main feature of the super app. However, we decided that the access to a virtual doctor/psychiatrist could perhaps shift the focus of the super app from guiding people towards a healthy lifestyle to providing people with remote medical access which is not the goal of Journey. We believed that that feature would better serve people if it was a standalone application where the help provided could be much more extensive.
 
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q7.png?raw=true)
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q8.png?raw=true)
 Q7, 8: The above bar graph highlights the question on which participants were the most divided. Half the participants said that they accorded little to no importance towards regulating digital screen time while the other half said the opposite which was that regulating digital screen time is important or very important to them. With that in mind, the participants then answered how many hours on average of screen time they incorporate in their daily lives and the numbers are sky high. Slightly more than 40% of people answered that they were in front of a screen for 11 hours or more per hour while more than 30% of people answered in between 7-10. It can be hypothesized that these numbers are very high due to the current pandemic which has forced many people to work remotely and that means being in front of a screen for 8 hours or so at the very least. In the end, screen time is definitely a very pressing concern, now more than ever.
 
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q9.png?raw=true)
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q10.png?raw=true)
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q11.png?raw=true)
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q12.png?raw=true)
 Q9, 10, 11, 12: In the case of Maslow’s pyramid of needs, the participants’ responses were relatively spread out into the four top categories of the pyramid. Then, people generally answered that being sociable, going outside, travelling, and maintaining a constant and healthy sleep schedule are very important things for them when it comes to a healthy lifestyle and this seems to converge with the findings from the question about Maslow’s pyramid.
 
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q13.png?raw=true)
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q14.png?raw=true)
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q15.png?raw=true)
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q16.png?raw=true)
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q17.png?raw=true)
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q18.png?raw=true)
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q19.png?raw=true)
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/survey_questions/q20.png?raw=true)
 Q13, 14, 15, 16, 17, 18, 19, 20: We decided to ask some more specific questions about the super app itself and saw that people were somewhat likely or likely to listen and incorporate healthy lifestyle advice from Journey which was expected. People may often be reserved when it comes to taking advice from unfamiliar sources and we believe that the right advice in combination with a good UI/UX experience is what will improve this outlook.
 
 Afterwards, the participants answered that effectiveness, utility, and learnability were the usability criteria that they would be looking forward to the most in the super app. Additionally, they also answered that helpful, motivating, and rewarding were the most important criterias that would be used to define their goals when using Journey.
@@ -80,8 +104,18 @@ Now that we were armed with the knowledge that came from the product and user re
 ## Personas
 With the help of our demographics section from our survey and the information that gave from our in-depth interviews with a few participants, we were able to create three personas with background information as well as their motivations, goals, and pain points related to the usage of a healthy super app.
 
+### Ahsan Khalil:
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/personas/Ahsan_Khalil.PNG?raw=true)
+
+### Liam Chan:
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/personas/Liam_Chan.PNG?raw=true)
+
+### Elena Wojciech:
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/personas/Elena%20_Wojciech.PNG?raw=true)
+
 ## Journey Map
 In order to get a better idea of what is going on in the mind of our users, we decided to pick Liam Chan, one of our previous personas, and simulate what the initial experience of getting used to the super app would look like. This would allow us to predict and analyze the high and low points of the potential interactions between a user and the app.
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_journey/user_journey.PNG?raw=true)
 
 # Design Process
 Explain the various features that were retained and why. Explain how it ties to the answers from the market study and the user research answers.
@@ -98,6 +132,7 @@ After selecting the primary features of our healthy super app, we decided to cre
 
 ## User Flow Diagram
 We also decided to include a more human-centered design artefact in order to better visualize a user’s experience with Journey by depicting a typical day in someone’s life while using the super app.
+![alt text](https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/user_flow_diagram.png?raw=true)
 
 ## Sketches
 We also decided to include a more human-centered design artefact in order to better visualize a user’s experience with Journey by depicting a typical day in someone’s life while using the super app.
@@ -111,7 +146,7 @@ We also decided to include a more human-centered design artefact in order to bet
 ## Typography
 We also decided to include a more human-centered design artefact in order to better visualize a user’s experience with Journey by depicting a typical day in someone’s life while using the super app.
 
-Naming and Logo
+## Naming and Logo
 We also decided to include a more human-centered design artefact in order to better visualize a user’s experience with Journey by depicting a typical day in someone’s life while using the super app.
 
 # Final Design
