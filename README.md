@@ -220,20 +220,20 @@ We also decided to include a more human-centered design artefact in order to bet
 The sketches are based on user analysis about what needs could user have for a healthy lifestyle super app. The super app will have the following features: map navigation, exercising (workout), cooking with given recipes, a messaging board for sharing thing of interest with other users and a wallet for purchases and additional financial information.
 
 <p align="center">
-  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/signup.jpg?raw=true">
-  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/login.jpg?raw=true">
-  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/home.jpg?raw=true">
-  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/side_bar.jpg?raw=true">
-  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/maps.jpg?raw=true">
-  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/exercising.jpg?raw=true">
-  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/cooking.jpg?raw=true">
-  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/messaging.jpg?raw=true">
-  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/wallet.jpg?raw=true">
-  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/profile.jpg?raw=true">
-  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/statistics.jpg?raw=true">
-  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/goals.jpg?raw=true">
-  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/screen_timer.jpg?raw=true">
-  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/screen_timer_notif.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/sketches/signup.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/sketches/login.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/sketches/home.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/sketches/side_bar.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/sketches/maps.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/sketches/exercising.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/sketches/cooking.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/sketches/messaging.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/sketches/wallet.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/sketches/profile.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/sketches/statistics.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/sketches/goals.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/sketches/screen_timer.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/sketches/screen_timer_notif.jpg?raw=true">
 </p>
 
 ## Wireframes
