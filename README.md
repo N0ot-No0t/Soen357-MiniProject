@@ -239,6 +239,25 @@ The sketches are based on user analysis about what needs could user have for a h
 ## Wireframes
 We also decided to include a more human-centered design artefact in order to better visualize a user’s experience with Journey by depicting a typical day in someone’s life while using the super app.
 
+<p align="center">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/WholeFrame.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/SignupPage.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/Login Page.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/Home.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/SideBar.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/Maps.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/Exercising.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/Cooking.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/MessagingBoard.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/Wallet.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/Add Card.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/Profile.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/Statistics.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/Goals.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/ScreenTimer.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/wireframes/ScreenTimerNotif.png?raw=true">
+</p>
+
 ## Color Palette
 The color palette is very simple in terms of colors. Even though different shades of gray are present in the color palette, the prevailing colors in the different shades of green. We think the green color gives a greater sensation of well-being to the user which is very beneficial. 
 
@@ -256,8 +275,31 @@ We opted for the Inter font as it represents a more friendly appearance to the u
 ## Naming and Logo
 We also decided to include a more human-centered design artefact in order to better visualize a user’s experience with Journey by depicting a typical day in someone’s life while using the super app.
 
+<p align="center">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/logo/logo.png?raw=true">
+</p>
+
 # Final Design
 Explain the various features that were retained and why. Explain how it ties to the answers from the market study and the user research answers.
+
+<p align="center">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/SignUp.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/LogIn.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/Home.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/SideBar.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/Maps.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/Exercising.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/Cooking.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/MessagingBoard.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/MessagingBoardPost.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/Wallet.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/Wallet-1.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/Profile.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/Statistics.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/Goals.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/ScreenTimer.png?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/mockups/ScreenTimerNotif.png?raw=true">
+</p>
 
 # Conclusion
 Explain the various features that were retained and why. Explain how it ties to the answers from the market study and the user research answers.
