@@ -217,7 +217,24 @@ We also decided to include a more human-centered design artefact in order to bet
 </p>
 
 ## Sketches
-We also decided to include a more human-centered design artefact in order to better visualize a user’s experience with Journey by depicting a typical day in someone’s life while using the super app.
+The sketches are based on user analysis about what needs could user have for a healthy lifestyle super app. The super app will have the following features: map navigation, exercising (workout), cooking with given recipes, a messaging board for sharing thing of interest with other users and a wallet for purchases and additional financial information.
+
+<p align="center">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/signup.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/login.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/home.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/side_bar.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/maps.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/exercising.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/cooking.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/messaging.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/wallet.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/profile.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/statistics.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/goals.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/screen_timer.jpg?raw=true">
+  <img src="https://github.com/N0ot-No0t/Soen357-MiniProject/blob/main/assets/user_flow_diagram/screen_timer_notif.jpg?raw=true">
+</p>
 
 ## Wireframes
 We also decided to include a more human-centered design artefact in order to better visualize a user’s experience with Journey by depicting a typical day in someone’s life while using the super app.
